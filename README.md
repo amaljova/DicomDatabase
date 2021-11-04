@@ -1,6 +1,6 @@
 # Fix a DICOM DataBase
 
-This script reades DICOM files in a source directory or in a list of source directories and serches for the patients in the given patients list, creates a DICOM DataBase in the destination directory, copies the files and creates a DicomDataBase.csv file and a summary.txt file.
+This script reads DICOM files in a source directory or in a list of source directories and searches for the patients in the given patients 'list creates a DICOM DataBase in the destination directory, copies the files, and creates a DicomDataBase.csv file and a summary.txt file.
 
 ---
 The created directory's structure will be:
